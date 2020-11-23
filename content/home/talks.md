@@ -26,13 +26,31 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    category = "Invited Talks"
+    publication_type = "A Stein Goodness-of-fit test for Directional Distribution"
+    author = "Wenkai"
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
+  
+  [content.filters]
+    tag = ""
+    category = "Invited Talks"
+    publication_type = "A Stein Goodness-of-fit test for Directional Distribution"
+    author = "Wenkai"
     exclude_featured = false
     exclude_past = false
     exclude_future = false
     
+  [content.filters]
+    tag = ""
+    category = "Invited Talks"
+    publication_type = "A Stein Goodness-of-fit test for Directional Distribution"
+    author = "Wenkai"
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
+  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
